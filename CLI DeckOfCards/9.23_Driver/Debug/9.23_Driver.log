@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  9.23_Driver.cpp
+  Card.cpp
+  DeckOfCards.cpp
+c:\users\sean\source\repos\9.23_driver\9.23_driver\deckofcards.cpp(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+c:\users\sean\source\repos\9.23_driver\9.23_driver\deckofcards.cpp(51): warning C4715: 'DeckOfCards::dealCard': not all control paths return a value
+  9.23_Driver.vcxproj -> C:\Users\Sean\source\repos\9.23_Driver\Debug\9.23_Driver.exe
