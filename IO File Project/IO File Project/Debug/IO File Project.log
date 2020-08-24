@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\sean\source\repos\io file project\io file project\main.c(24): warning C4715: 'openFileAppendPlus': not all control paths return a value
+  IO File Project.vcxproj -> C:\Users\Sean\source\repos\IO File Project\Debug\IO File Project.exe
